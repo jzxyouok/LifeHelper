@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=E:\WorkSpace\Android\LifeHelper\app\libs\umeng_social_shareboard.jar
-FILE_HASH=c698121d485cc1cd502ff8fad5e4e71f72ad1e9b
-DX_VERSION=1.13
-JUMBO_MODE=false
-OPTIMIZE=true

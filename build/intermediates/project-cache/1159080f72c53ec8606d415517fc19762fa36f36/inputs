@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=E:\WorkSpace\Android\LifeHelper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
-FILE_HASH=de16eb9e843ef8f46b08d184800936febfaa103c
-DX_VERSION=1.13
-JUMBO_MODE=true
-OPTIMIZE=true

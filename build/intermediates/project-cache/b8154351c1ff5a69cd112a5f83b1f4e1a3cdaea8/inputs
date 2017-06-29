@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=E:\WorkSpace\Android\LifeHelper\app\libs\umeng_social_tool.jar
-FILE_HASH=87ef211d4ef0c257c7d040fbaa411832330eb9aa
-DX_VERSION=1.13
-JUMBO_MODE=false
-OPTIMIZE=true

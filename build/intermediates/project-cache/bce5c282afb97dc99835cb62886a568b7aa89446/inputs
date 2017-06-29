@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=E:\WorkSpace\Android\LifeHelper\app\libs\SocialSDK_Sina_Simplify.jar
-FILE_HASH=8f6fd4de4b889f18e552c4c334d82cc6cc77fa4c
-DX_VERSION=1.13
-JUMBO_MODE=false
-OPTIMIZE=true

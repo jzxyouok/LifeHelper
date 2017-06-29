@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=E:\WorkSpace\Android\LifeHelper\app\libs\umeng_shareboard_widget.jar
-FILE_HASH=4b1a59e4c996ee354c2db160f4b1ad3b0e94aab5
-DX_VERSION=1.13
-JUMBO_MODE=false
-OPTIMIZE=true
