@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">生活日报</string>
+    <string name="theme_day">日间模式</string>
+    <string name="theme_night">夜间模式</string>
+</resources>
